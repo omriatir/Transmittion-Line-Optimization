@@ -191,23 +191,6 @@ plt.show()
 
 
 
-options = ('A', 'B', 'C', 'D', 'E')
-
-# first and second preferences
-pref = [
-    ['B', 'A'],  # contestant 1
-    ['B', 'C'],  # contestant 2
-    ['B', 'C'],  # contestant 3
-    ['A', 'C'],  # contestant 4
-    ['A', 'D']  # contestant 5
-]
-# output = ('A','B','E','C','D')
-
-
-
-
-
-
 
 
 
